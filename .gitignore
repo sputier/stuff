@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DecimalToRoman/v15
+/DecimalToRoman/bin/Debug
+/DecimalToRoman/obj/Debug
+/DecimalToRoman.Tests/bin/Debug
+/DecimalToRoman.Tests/obj/Debug
+/packages
